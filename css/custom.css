@@ -4,7 +4,7 @@
 }
 
 h1{
-	font-size: 15vw;
+	font-size: 10vw;
 }
 
 a{
@@ -19,26 +19,30 @@ a:hover{
 	text-decoration: underline;
 }
 
-.splash{
+.one{
+	background-color: #4CBD9A;
 }
 
-/*body {
-    background-color: rgb(210,50,98);
-    min-height: 2000px;
-}*/
-
-.navbar{
-	position: fixed;
-	top: 0;
-	left: 0;
-	z-index: 9999;
-	width: 100%;
-}
-.links{
-	word-spacing: 15px;
+.two{
+	background-color: #FDB734;
 }
 
+.three{
+	background-color: #ED5555;
+}
 
+.four{
+	background-color: #1693A5;
+}
 
+.five{
+	background-color: #81506E;
+}
 
-/*Media Queries*/
+.sixx{
+	background-color: #FBD783;
+}
+
+.seven{
+	background-color: #B49BBD;
+}
