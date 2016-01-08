@@ -6,6 +6,6 @@ $(document).ready(function() {
 			$('#fullpage').fullpage({
 				'navigation': true,
 				'navigationPosition': 'right',
-				'navigationTooltips': ['Home', 'About', 'About', 'About', 'About', 'About', 'Team'],
+				// 'navigationTooltips': ['Home', 'About', 'About', 'About', 'About', 'About', 'Team'],
 			});
 		});
